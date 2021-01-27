@@ -3,5 +3,6 @@ Implementar uma solução aplicada a Smart City utilizando o ESP32 e um ou mais 
 
 Foi tido como ideia construir um umidificador em pequena escala, voltado para locais menores e fechados como bares, restaurantes, shoppings, lojas etc. mantendo assim as condições de permanência, aceitáveis.
 
-##Assistir ao vídeo da apresentação:
+## Assistir ao vídeo da apresentação:
+
 [![Projeto Smart City - Umidificador](http://img.youtube.com/vi/fu3niqZ-nD4/0.jpg)](http://www.youtube.com/watch?v=fu3niqZ-nD4 "Projeto Smart City")
