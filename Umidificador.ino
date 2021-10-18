@@ -16,7 +16,7 @@
 #define INTERVAL 1000
 
 //Token do seu bot. Troque pela que o BotFather te mostrar
-#define BOT_TOKEN "1474768750:AAEbnSed0ZQJYqpLa91YWGxDjDnnKuOkXnM"
+#define BOT_TOKEN "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
 
 //Troque pelo ssid e senha da sua rede WiFi
 #define SSID "copel-bel74"
