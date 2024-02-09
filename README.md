@@ -1,8 +1,8 @@
-# Projeto Smart City - Umidificador
-Implementar uma solução aplicada a Smart City utilizando o ESP32 e um ou mais sensores/atuadores, além dos já apresentados Relé e DHT11 (o uso do Relé e DHT11 é opcional). Esta solução terá que utilizar conexão com Internet e comunicar seus dados com um serviço remoto (Thingspeak, Cayenne Mydevices, Telegram, ou outro qualquer).
+# Smart City - Humidifier
+Implement a solution applied to Smart City using the ESP32 and one or more sensors/actuators, in addition to the already presented Relay and DHT11 (the use of Relay and DHT11 is optional). This solution will have to use an Internet connection and communicate its data with a remote service (Thingspeak, Cayenne Mydevices, Telegram, or any other).
 
-Foi tido como ideia construir um umidificador em pequena escala, voltado para locais menores e fechados como bares, restaurantes, shoppings, lojas etc. mantendo assim as condições de permanência, aceitáveis.
+The idea was to build a small-scale humidifier, aimed at smaller and enclosed places like bars, restaurants, shopping malls, stores, etc., thereby maintaining acceptable conditions for staying.
 
-## Assistir ao vídeo da apresentação:
+## Watch the presentation video:
 
 [![Projeto Smart City - Umidificador](http://img.youtube.com/vi/fu3niqZ-nD4/0.jpg)](http://www.youtube.com/watch?v=fu3niqZ-nD4 "Projeto Smart City")
